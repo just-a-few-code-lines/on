@@ -2,7 +2,7 @@
 
 Javascript dynamic event handling in a few bytes of code
 
-Provides a way to setup event handlers targetting html elements that are not already in the DOM
+	Provides a way to setup event handlers targetting html elements that are not already in the DOM
 		=> No more need to wait for the onload event to setup event handlers
 		=> Handlers will be allways up and running, even for future dynamic content
 
