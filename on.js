@@ -9,7 +9,7 @@ EventTarget.prototype.On = function( event, selector, func ) {
 		this._on = {};
 
 	if( this._on[event] ) {
-		// Add to existing event
+		// Add handler to an existing event
 		this._on[event].push( {selector:selector, func:func} );
 		return;
 	}
