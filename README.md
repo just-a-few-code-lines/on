@@ -1,4 +1,4 @@
-# on
+# On
 
 Javascript dynamic event handling in a few bytes of code
 
